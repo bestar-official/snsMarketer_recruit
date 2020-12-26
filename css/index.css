@@ -1,0 +1,127 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+.contents01 {
+    position: relative;
+}
+
+.Insta_white {
+    position: absolute;
+    top: 18%;
+    left: 88%;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.button01 {
+    width: 65%;
+}
+
+.HP_white {
+    position: absolute;
+    top: 22.5%;
+    left: 88%;
+}
+
+.button02 {
+    width: 65%;
+}
+
+.contents02 {
+    width: 100%;
+}
+
+.contents03 {
+    position: relative;
+}
+
+.interview {
+    position: absolute;
+    top: 66.3%;
+    left: 18%;
+}
+
+.contents3 {
+    width: 100%;
+}
+
+.button03 {
+    width: 80%;
+}
+
+.recruit {
+    position: absolute;
+    top: 79.5%;
+    left: 10%;
+}
+
+.button04 {
+    width: 90%;
+}
+
+.Insta_black {
+    position: absolute;
+    top: 90.1%;
+    left: 18%;
+}
+
+.button05 {
+    width: 53%;
+}
+
+.HP_black {
+    position: absolute;
+    top: 90.1%;
+    left: 54%;
+}
+
+.button06 {
+    width: 53%;
+}
+
+
+
+
+
+
+
+.back_button {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
